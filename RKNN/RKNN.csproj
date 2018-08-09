@@ -11,6 +11,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="README" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="README" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="Priority Queue\Priority Queue.csproj" />
   </ItemGroup>
 
