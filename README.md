@@ -18,3 +18,4 @@ initiazation by input parameter two comparer. The toBBox parameter Func get one 
             }
             return a;
         };
+the item should set the 'element=true' in construct method
